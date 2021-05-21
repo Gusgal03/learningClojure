@@ -6,7 +6,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 FIXME
 
-## License
+
+## Licene
 
 Copyright © 2021 FIXME
 
